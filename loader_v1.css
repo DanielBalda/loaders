@@ -154,7 +154,8 @@
 }
 
 .a_buttons {
-    border: 1px solid #00c2ff4d;
+    border: 1px solid #d3ff00;
+    border-radius: 4px;
 }
 
 .a_text_buttons {
