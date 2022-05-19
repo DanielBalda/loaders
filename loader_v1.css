@@ -141,3 +141,24 @@
         box-shadow: inset 0px 0px 0px 6px #4bb71b;
     }
 }
+
+
+
+
+.container_buttons {
+    position: absolute;
+    width: max-content;
+    height: max-content;
+    margin-left: -195px;
+    text-align: center;
+}
+
+.a_buttons {
+    border: 1px solid #00c2ff4d;
+}
+
+.a_text_buttons {
+    font-size: 12px;
+    color: aliceblue;
+    padding: 1px;
+}
