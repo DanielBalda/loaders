@@ -182,3 +182,8 @@
       transform: rotate(1turn);
    }
 }
+
+.menuitem:hover
+{
+	color:white !important;
+}
