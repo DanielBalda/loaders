@@ -185,5 +185,16 @@
 
 .menuitem:hover
 {
-	color:white !important;
+   color:white !important;
+}
+
+
+.cromoContainer {
+    height: 90px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #324965;
+    border: 1px solid;
+    border-radius: 4px;
 }
